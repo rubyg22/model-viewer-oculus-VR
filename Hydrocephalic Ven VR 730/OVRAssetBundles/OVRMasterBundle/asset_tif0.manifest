@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3424140613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 742c7d1b88b50f0d5e517a045d5d1954
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/ExampleAssets/Textures/Plastic/Plastic_AlbedoSmoothness.tif
+- Assets/Materials/Segmentation-TM_u0_v0.tif
+- Assets/ExampleAssets/Textures/Metal/Metal_MetallicSmoothness.tif
+- Assets/ExampleAssets/Textures/Metal/Metal_Albedo.tif
+- Assets/ExampleAssets/Textures/Plastic/Plastic_Normal.tif
+- Assets/ExampleAssets/Textures/Metal/Metal_Normal.tif
+Dependencies: []

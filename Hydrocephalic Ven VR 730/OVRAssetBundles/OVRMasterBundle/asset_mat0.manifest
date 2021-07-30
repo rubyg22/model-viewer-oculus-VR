@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 215584343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef67cfa1af5e6c2c9ab088493bb78cf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/TriPlanarWorld.mat
+- Assets/ExampleAssets/Materials/Plastic_White_Mat.mat
+- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/TeleportLaser.mat
+- Assets/ExampleAssets/Textures/Materials/Skybox_Mat.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat
+- Assets/Materials/Segmentation-TM_u0_v0.mat
+- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/lambert1.mat
+Dependencies:
+- C:/Users/ralvarado/Unity Projects/Hydrocephalic Ven VR 726/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- C:/Users/ralvarado/Unity Projects/Hydrocephalic Ven VR 726/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/ralvarado/Unity Projects/Hydrocephalic Ven VR 726/OVRAssetBundles/OVRMasterBundle/asset_png0

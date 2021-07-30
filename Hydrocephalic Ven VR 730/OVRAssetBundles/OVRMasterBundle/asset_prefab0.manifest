@@ -1,0 +1,108 @@
+ManifestFileVersion: 0
+CRC: 1563956203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0da8e6393dda07a2ae0b2b47fa2f158
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7110d4317c9dda6e48155fb3cdfb0628
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf162022e230bb745ab2ec48cd357f9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2207d0346672d340874d20d6a45eb69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 810484434e07d83468e261ce07d92106, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfcbed738e5f16548bc6b4284038f7d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1bbfae4990937048b888479caae4fdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bb0f5a590bee8641b2298ad4ad21c1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d8fa3b51be1cb745a66b9f32a13f550, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40e31156a98eed94e816056346fac4e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b71d1996d67004241a3b69960856ffcb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df8e1d778abf442e4bec449c360e9e1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 085d9ec7bb5e55f48b879d93931f553e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79b7e65854ace8f44b05c52c6e824354, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4133858333ed264ebae0d70265b7b6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa8ac578d8d4eff4eae43b9c3eb1529c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f9cfd9856723ca4f922ba9af9e15fe4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70bc4ab8bfd254f42902a4d602fef956, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2051e49b4d4201418c42b0244b2bb47, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c742df914335504e97e68335f9f7ea6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fbe3faa8f659944b47b2bb36927a5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 847d8b0d968d4a14c89d7508f54c0db7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd425c2d06f39bf4899d07c05d0f10eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 246f3f7eae8a20948859c718121d1c69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65ac96eeca5eff442ba798f7bfc4f002, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03a7614f10832d041bccff167d2a460f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Core/Locomotion/PlayerController.prefab
+- Assets/Oculus/SampleFramework/Core/Locomotion/TeleportDestination.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandRight.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
+- Assets/Oculus/SampleFramework/Core/Locomotion/TeleportLaser.prefab
+Dependencies:
+- C:/Users/ralvarado/Unity Projects/Hydrocephalic Ven VR 726/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/ralvarado/Unity Projects/Hydrocephalic Ven VR 726/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/ralvarado/Unity Projects/Hydrocephalic Ven VR 726/OVRAssetBundles/OVRMasterBundle/asset_controller0

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 878132938
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b0a3a69aca59897dace7683b896b18d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MeterGrid.png
+Dependencies: []
